@@ -30,3 +30,28 @@
   padding-top: 2%;
   font-size: 24px;
 }
+.flex-container1{
+  display: flex;
+/* flex-wrap: nowrap; */
+width: 100%;
+flex-direction: row;
+background-color: #fff;
+}
+.content{
+width: 20%;
+background-color: #eeeeee;
+margin-top: 10px;
+height: 300px;
+text-align: center;
+font-size: 24px;
+padding-top: 12%;
+}
+.m-content{
+width: 80%;
+background-color: #eeeeee;
+margin: 10px 10px 0 10px;
+height: 300px;
+text-align: center;
+font-size: 24px;
+padding-top: 12%;
+}
